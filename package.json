@@ -8,5 +8,25 @@
     "mime-types": "^2.1.35",
     "node-fetch": "^3.3.2",
     "sharp": "^0.33.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mugendi/file-to-url.git"
+  },
+  "author": "Anthony Mugendi <ngurumugz@gmail.com>",
+  "description": "A module that handles loads files from disk & url returning either the buffer or encoded url formats.",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "file",
+    "loader",
+    "url",
+    "base64"
+  ],
+  "bugs": {
+    "url": "https://github.com/mugendi/file-to-url/issues"
+  },
+  "homepage": "https://github.com/mugendi/file-to-url#readme"
 }
