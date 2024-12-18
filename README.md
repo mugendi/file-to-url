@@ -38,4 +38,10 @@ if (handler.isImage()) {
   console.log('Processing other file type...');
 }
 
+// check if a string is base64 or a isBase64DataURL
+
+FileHandler.isBase64(str)
+FileHandler.isBase64DataURL(str)
+
+
 ```
